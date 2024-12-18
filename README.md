@@ -85,6 +85,6 @@ Bu proje MIT lisansı ile sunulmaktadır. Daha fazla bilgi için [LICENSE](https
 ## 👤 İletişim
 
 - **GitHub:** [zinkxx](https://github.com/zinkxx)
-- **Web Sitesi:** [DevTechnic](https://example.com) (Eğer varsa)
+- **Web Sitesi:** [DevTechnic](https://devtechnic.online)
 
 Herhangi bir sorunuz veya öneriniz varsa benimle iletişime geçmekten çekinmeyin! 😊
